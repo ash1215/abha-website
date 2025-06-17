@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/abha-website/static/css/main.ab1778e3.css",
-    "main.js": "/abha-website/static/js/main.4a282653.js",
+    "main.js": "/abha-website/static/js/main.f762f7b8.js",
     "static/js/453.c1ee6215.chunk.js": "/abha-website/static/js/453.c1ee6215.chunk.js",
     "index.html": "/abha-website/index.html",
     "main.ab1778e3.css.map": "/abha-website/static/css/main.ab1778e3.css.map",
-    "main.4a282653.js.map": "/abha-website/static/js/main.4a282653.js.map",
+    "main.f762f7b8.js.map": "/abha-website/static/js/main.f762f7b8.js.map",
     "453.c1ee6215.chunk.js.map": "/abha-website/static/js/453.c1ee6215.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ab1778e3.css",
-    "static/js/main.4a282653.js"
+    "static/js/main.f762f7b8.js"
   ]
 }
