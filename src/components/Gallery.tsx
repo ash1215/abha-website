@@ -10,32 +10,33 @@ const Gallery: React.FC = () => {
     {
       id: 1,
       image: process.env.PUBLIC_URL + "/images/WhatsApp Image 2025-06-03 at 15.23.26.jpeg",
-      title: "Image 1"
+      title: "काव्य पाठ कार्यक्रम"
     },
     {
       id: 2,
       image: process.env.PUBLIC_URL + "/images/WhatsApp Image 2025-06-03 at 15.23.27.jpeg",
-      title: "Image 2"
+      title: "सांस्कृतिक कार्यक्रम"
     },
     {
       id: 3,
       image: process.env.PUBLIC_URL + "/images/WhatsApp Image 2025-06-03 at 15.23.28.jpeg",
-      title: "Image 3"
+      title: "साहित्यिक सम्मेलन"
     },
     {
       id: 4,
       image: process.env.PUBLIC_URL + "/images/WhatsApp Image 2025-06-03 at 15.23.29.jpeg",
-      title: "Image 4"
+      title: "टेलीविजन कार्यक्रम"
     },
     {
       id: 5,
       image: process.env.PUBLIC_URL + "/images/WhatsApp Image 2025-06-03 at 15.23.30.jpeg",
-      title: "Image 5"
+      title: "मैथिली भाषा सम्मेलन"
     },
     {
       id: 6,
       image: process.env.PUBLIC_URL + "/images/WhatsApp Image 2025-06-03 at 15.23.31.jpeg",
-      title: "Image 6"
+      title: "टेलीविजन कार्यक्रम"
+
     }
   ];
 

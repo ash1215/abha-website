@@ -13,7 +13,7 @@ const Hero: React.FC<HeroProps> = ({ scrollToSection }) => {
           <img
             src={process.env.PUBLIC_URL + "/images/dp.jpg"}
             alt="Abha Jha"
-            className="rounded-full w-48 h-48 object-cover"
+            className="hero-image"
           />
           <h1 className="hero-title">
             आभा झा
