@@ -11,9 +11,9 @@ const Hero: React.FC<HeroProps> = ({ scrollToSection }) => {
       <div className="container">
         <div className="hero-content">
           <img
-            src="/images/dp.jpg"
-            alt="आभा झा"
-            className="hero-image"
+            src={process.env.PUBLIC_URL + "/images/dp.jpg"}
+            alt="Abha Jha"
+            className="rounded-full w-48 h-48 object-cover"
           />
           <h1 className="hero-title">
             आभा झा

@@ -6,30 +6,36 @@ interface GalleryItem {
 }
 
 const Gallery: React.FC = () => {
-  const galleryItems: GalleryItem[] = [
+  const images = [
     {
-      image: "/images/WhatsApp Image 2025-06-03 at 15.23.26.jpeg",
-      title: "काव्य पाठ कार्यक्रम"
+      id: 1,
+      image: process.env.PUBLIC_URL + "/images/WhatsApp Image 2025-06-03 at 15.23.26.jpeg",
+      title: "Image 1"
     },
     {
-      image: "/images/WhatsApp Image 2025-06-03 at 15.23.27.jpeg",
-      title: "सांस्कृतिक कार्यक्रम"
+      id: 2,
+      image: process.env.PUBLIC_URL + "/images/WhatsApp Image 2025-06-03 at 15.23.27.jpeg",
+      title: "Image 2"
     },
     {
-      image: "/images/WhatsApp Image 2025-06-03 at 15.23.28.jpeg",
-      title: "साहित्यिक सम्मेलन"
+      id: 3,
+      image: process.env.PUBLIC_URL + "/images/WhatsApp Image 2025-06-03 at 15.23.28.jpeg",
+      title: "Image 3"
     },
     {
-      image: "/images/WhatsApp Image 2025-06-03 at 15.23.29.jpeg",
-      title: "पुरस्कार समारोह"
+      id: 4,
+      image: process.env.PUBLIC_URL + "/images/WhatsApp Image 2025-06-03 at 15.23.29.jpeg",
+      title: "Image 4"
     },
     {
-      image: "/images/WhatsApp Image 2025-06-03 at 15.23.30.jpeg",
-      title: "मैथिली भाषा सम्मेलन"
+      id: 5,
+      image: process.env.PUBLIC_URL + "/images/WhatsApp Image 2025-06-03 at 15.23.30.jpeg",
+      title: "Image 5"
     },
     {
-      image: "/images/WhatsApp Image 2025-06-03 at 15.23.31.jpeg",
-      title: "टेलीविजन कार्यक्रम"
+      id: 6,
+      image: process.env.PUBLIC_URL + "/images/WhatsApp Image 2025-06-03 at 15.23.31.jpeg",
+      title: "Image 6"
     }
   ];
 
@@ -42,7 +48,7 @@ const Gallery: React.FC = () => {
           <p className="section-description">काव्य पाठ आ सांस्कृतिक कार्यक्रमक तस्वीरें</p>
         </div>
         <div className="gallery-grid">
-          {galleryItems.map((item, index) => (
+          {images.map((item, index) => (
             <div key={index} className="gallery-item">
               <img src={item.image} alt={item.title} className="gallery-image" />
               <div className="gallery-overlay">
