@@ -1,46 +1,37 @@
-# Getting Started with Create React App
+साहित्यिक परिचय -
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+नाम - आभा झा (कवयित्री)
 
-## Available Scripts
+विशेष अभिरुचि - मैथिली एवं हिन्दी में काव्य सृजन
 
-In the project directory, you can run:
+प्रकाशित कृतियाँ -
+१.⁠ ⁠प्रथम प्रणय (मैथिली काव्य संग्रह)
+२. ऊर्मि (मैथिली काव्य संग्रह)
 
-### `npm start`
+उपलब्धियाँ-
+साहित्य अकादेमी,
+एवं
+मैथिली भोजपुरी अकादेमी जैसे समृद्ध मंचों पर कई बार कविता प्रस्तुत करने का अवसर प्राप्त।
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+देश के विभिन्न भागों में आयोजित राष्ट्रीय स्तर के कार्यक्रमों में प्रस्तुति देने के साथ साथ
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+आकाशवाणी दिल्ली में आयोजित हिंदी पखवाड़ा में जज की भूमिका में उपस्थिति ।
 
-### `npm test`
+नेशनल टेलीविजन- यथा जी. टी .वी के नव वर्ष विशेष कार्यक्रम में काव्य पाठ का सुखद अनुभव।
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+शेमारू चैनल के वाह भाइ वाह कार्यक्रम में भी भाग ले चुकी हूँ
 
-### `npm run build`
+पुरस्कार-
+मैथिली काव्य संग्रह ऊर्मि के लिए -
+डा. नीरा मिश्र स्मृति साहित्य सम्मान 2024 से नवाजा गया है।
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Youtube channel: https://www.youtube.com/@abhaspoetry7131
+Facebook: https://www.facebook.com/abha.jha.999228
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
+Address -
+Abha Jha
+H.N.186 S.F.S flats
+Golden jubilee apartment
+Sector 11 Rohini
+New Delhi 110085
+Mobile no: +91 7982349106
